@@ -23,4 +23,4 @@ Este ejercicio forma parte de mi formación como **Fullstack Developer**, donde 
 
 ## 📸 Entra en la página Web
 
-* ### Visita la web [aquí.](http://handlebarsjs.com/)
+* ### Visita la web [aquí.](https://soylizardev.github.io/Coffee-and-code-landing-page/)
